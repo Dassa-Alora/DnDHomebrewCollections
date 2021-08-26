@@ -5,3 +5,10 @@ Your patron is that of the Quori, rulers of Dal Quor the Region of Dreams. You m
 
 ## Expanded Spell List ##
 
+Spell Level  |  Spells
+----------   |  ----------
+1st Level    |  [Dissonant Whispers] (https://www.dndbeyond.com/spells/dissonant-whispers), [Sleep] (https://www.dndbeyond.com/spells/sleep)
+2nd Level    |  [Mind Spike] (https://www.dndbeyond.com/spells/mind-spike), [Phantasmal Force] (https://www.dndbeyond.com/spells/phantasmal-force)
+3rd Level    |  [Cat Nap] (https://www.dndbeyond.com/spells/catnap), [Spirit Shroud] (https://www.dndbeyond.com/spells/spirit-shroud)
+4th Level    |  [Phantasmal Killer] (https://www.dndbeyond.com/spells/phantasmal-killer), [Summon Aberration] (https://www.dndbeyond.com/spells/summon-aberration)
+5th Level    |  [Dream] (https://www.dndbeyond.com/spells/dream), [Enervation] (https://www.dndbeyond.com/spells/enervation)
