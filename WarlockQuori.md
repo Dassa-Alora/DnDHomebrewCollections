@@ -19,3 +19,8 @@ You can magically call forth a spectral image of your Quori spirit to strike at 
 When you create the Quori spirit, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the spirit will go through the target and the target takes 1d4 necrotic damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 5th level in this class, the damage increases to 1d8 necrotic damage. When you reach 10th level in this class, the damage increases to 2d8 necrotic damage.
 
 As a bonus action on your turn, you can command the Quori spirit to move up to 30 feet and repeat the attack. You regain all expended uses when you finish a long rest.
+
+## Noetic Backfire ##
+At 6th level, you learn to magically ward yourself against all attacks and turn an enemy’s failed strike against them. When a creature makes an attack roll against you, you are able to use your reaction to impose disadvantage on the enemy's roll. If the attack misses you, the enemy deals itself the damage it would have dealt you as psychic damage.
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.
