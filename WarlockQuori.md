@@ -24,3 +24,8 @@ As a bonus action on your turn, you can command the Quori spirit to move up to 3
 At 6th level, you learn to magically ward yourself against all attacks and turn an enemy’s failed strike against them. When a creature makes an attack roll against you, you are able to use your reaction to impose disadvantage on the enemy's roll. If the attack misses you, the enemy deals itself the damage it would have dealt you as psychic damage.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+## Enduring Vitality ##
+
+Starting at 10th level, you have resistance to neurotic damage. When a creature does deal neurotic damage to you, that creature takes the same amount of damage that you do.
+
