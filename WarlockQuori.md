@@ -29,3 +29,10 @@ Once you use this feature, you can’t use it again until you finish a short or 
 
 Starting at 10th level, you have resistance to neurotic damage. When a creature does deal neurotic damage to you, that creature takes the same amount of damage that you do.
 
+## Nightmare Shift ##
+
+Starting at 15th level, you can plunge a creature into Dal Quor, the Region of Dreams for one minute. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC or vanish. On a failed save, the creature is temporarily transported to Dal Quor where they encounter the Dreaming Dark.
+
+Once the creature reappears, it immediately takes 2d8 psychic damage and is considered frightened. 
+
+You must finish a long rest before you can use this feature again.
