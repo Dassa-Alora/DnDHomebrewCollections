@@ -12,3 +12,10 @@ Spell Level  |  Spells
 3rd Level    |  [Cat Nap](https://www.dndbeyond.com/spells/catnap), [Spirit Shroud](https://www.dndbeyond.com/spells/spirit-shroud)
 4th Level    |  [Phantasmal Killer](https://www.dndbeyond.com/spells/phantasmal-killer), [Summon Aberration](https://www.dndbeyond.com/spells/summon-aberration)
 5th Level    |  [Dream](https://www.dndbeyond.com/spells/dream), [Enervation](https://www.dndbeyond.com/spells/enervation)
+
+## Gloomweaver ##
+You can magically call forth a spectral image of your Quori spirit to strike at your foes. As a bonus action, you create a spectral image of your Quori spirit at a point you can see within 60 feet of you. The Quori spirit lasts for 1 minute.
+
+When you create the Quori spirit, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the spirit will go through the target and the target takes 1d4 necrotic damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 5th level in this class, the damage increases to 1d8 necrotic damage. When you reach 10th level in this class, the damage increases to 2d8 necrotic damage.
+
+As a bonus action on your turn, you can command the Quori spirit to move up to 30 feet and repeat the attack. You regain all expended uses when you finish a long rest.
